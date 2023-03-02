@@ -3,7 +3,7 @@ Lisa BOURLIER id: 5999222005
 exercise 1:
 
 1) create the flyouts
-![img](..\screenshot exos\exo1-1.png)
+![img](../screenshot exos/exo1-1.png)
 
 2) adding icons
 ![img](..\screenshot exos\exo1-2.png)
