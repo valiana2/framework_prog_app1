@@ -4,6 +4,7 @@ exercise 1:
 
 1) create the flyouts
 ![img](../screenshot exos/exo1-1.png)
+<img src="..\screenshot exos\exo1-1.png" alt="Getting started" />
 
 2) adding icons
 ![img](..\screenshot exos\exo1-2.png)
